@@ -20,7 +20,7 @@ lastUser=`defaults read /Library/Preferences/com.apple.loginwindow lastUserName`
 #####SET SCRIPT VARIABLES HERE######
 #path to file we are evaluating
 filePath=""
-#Example: filePath="/Users/$lastUser/Library/Preferences/com.apple.Terminal.plist"
+#Example: filePath="/Users/$lastUser/Library/Preferences/com.apple.Finder.plist"
 
 #number of days that we are going to set as a threshold (i.e. older then x days)
 #MUST BE AN INT
